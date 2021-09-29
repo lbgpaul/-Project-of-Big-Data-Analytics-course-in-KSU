@@ -28,6 +28,9 @@ Result:
 
 With the high performance platform “Google Colaboratory” and the embedding feature data from tensorflow, the average training time per epoch is about 9 second. The final results, after training 20 epochs, we get in this experiment is 98% accuracy in both training and testing datasets (figure 2).  We can see that, for the training set, the loss and accuracy values showed high accuracy during the train. The convergence of the data happened in a really early stage, and finally can get the really high accuracy result.
 
+<img src="images/acc.png" width = "500" >
+<img src="images/loss.png" width = "500" >
+
 
 Overfitting:
 
